@@ -2,7 +2,7 @@
 
 
 body{
-    background-image: url(imagens/fundo-madeira.jpg);
+   background-image: ;
     width: 100vw;
     background-repeat: no-repeat;
     
@@ -22,8 +22,8 @@ body{
 }
 
 iframe{
-    background-position: center;  
-    height: 600px;
+    background-position: ;
+   background-position: center;
     
 }
 
