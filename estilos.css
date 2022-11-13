@@ -12,8 +12,7 @@ body{
    width: 100vw;
    background-size: cover;
    background-attachment: fixed;
-   
-    
+
 }
 
 main{
@@ -35,7 +34,9 @@ section#celular{
 }
 
 section#tema{
-    background: url('');
+    background: url();
 }
+
+
 
 
