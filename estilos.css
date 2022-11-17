@@ -40,9 +40,14 @@ iframe#tela {
 }
 
 section#redes-sociais > img {
+    width: px;
+}
+
+a{
     width: 50px;
 }
 
-
-
+img {
+    width: 50px;
+}
 
