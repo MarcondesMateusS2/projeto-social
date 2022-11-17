@@ -21,7 +21,7 @@ main{
 
 }
 
-section#celular{
+.celular{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -29,11 +29,11 @@ section#celular{
 
     height: 627px; 
     width: 311;
-    background: url('../imagens/frame-iphone.png');
+    background: url();
     
 }
 
-section#tema{
+.tema{
     background: url();
 }
 
