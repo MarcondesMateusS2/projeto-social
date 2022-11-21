@@ -40,8 +40,7 @@ iframe {
    
 }
 
-img {
-    position: relative;
+section#redes-sociais img {
     width: 50px;
     margin: 10px;
     border-radius: 50%;
@@ -49,12 +48,16 @@ img {
     box-sizing: border-box;
     
 }
-section#redes-sociais{
+section#redes-sociais {
     text-align: right;
 }
 
-section#redes-cociais img:hover{
-    border: 2px rgba(255, 255, 255, 0.541);
+section#redes-sociais img:hover {
+    border: 2px white;
+}
+
+img:hover {
+    border: 2px white;
 }
 
 
