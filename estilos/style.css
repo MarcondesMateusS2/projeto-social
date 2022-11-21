@@ -27,7 +27,7 @@ a{
 }
 
 a:hover{
-    background-color: red;
+    background-color: rgba(255, 0, 0, 0.582);
 
 }
 p{
