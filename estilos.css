@@ -43,8 +43,18 @@ iframe {
 img {
     position: relative;
     width: 50px;
-    left: 500px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.432);
+    box-sizing: border-box;
     
+}
+section#redes-sociais{
+    text-align: right;
+}
+
+section#redes-cociais img:hover{
+    border: 2px rgba(255, 255, 255, 0.541);
 }
 
 
