@@ -16,11 +16,11 @@ main{
     background-size: cover;
     background-attachment: fixed;
     position: relative;
-    height: 100vw;
+    height: 100vh;
 }
 
-#celular{
-   position: relative;
+section#celular{
+   position: absolute;
    top: 50%;
    left: 50%;
    transform:  translate(-50%, -50%);
@@ -30,17 +30,21 @@ main{
    background: url('imagens/frame-iphone.png') no-repeat;
 }
 
-iframe#tela {
-    position: relative;
-    top:80px;
-    left: 22px;
+iframe {
+    position: absolute;
+    top: 315px;
+    left: 155px;
+    transform: translate(-50%, -50%);
     width: 269px;
     height: 471px;
-
+   
 }
 
-section#redes-sociais > img {
-    width: px;
+img {
+    position: relative;
+    width: 50px;
+    left: 500px;
+    
 }
 
 
